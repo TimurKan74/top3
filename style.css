@@ -32,6 +32,12 @@ header{
     background-repeat: no-repeat;
     background-position: center;
 }
+header.car{
+    background-image: url(./img/headerBGCar.png);
+}
+header.animal{
+    background-image: url(./img/headerBGEnimals.png);
+}
 section{
     background-color: white;
     max-width: 1200px;
