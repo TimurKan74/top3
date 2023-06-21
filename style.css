@@ -38,6 +38,9 @@ header.car{
 header.animal{
     background-image: url(./img/headerBGEnimals.png);
 }
+header.plants{
+    background-image: url(./img/headerBGPlants.png);
+}
 section{
     background-color: white;
     max-width: 1200px;
